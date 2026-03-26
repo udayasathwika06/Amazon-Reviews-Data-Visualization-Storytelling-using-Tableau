@@ -1,4 +1,4 @@
-# Task2_elevatelabs
+# Amazon Reviews Data Visualization & Storytelling using Tableau
 # 📊 Amazon Reviews - Data Visualization and Storytelling
 
 This repository contains a data visualization project using **Tableau** on the `amazon_reviews.csv` dataset. The objective was to create interactive and insightful visualizations that convey compelling business insights through storytelling.
